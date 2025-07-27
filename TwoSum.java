@@ -5,6 +5,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 
 program :- 
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
          for (int i = 0; i < nums.length; i++) {
@@ -16,6 +17,6 @@ class Solution {
                 }
             }
         }
-        return new int[] {}
+        return new int[] {};
     }
 }
