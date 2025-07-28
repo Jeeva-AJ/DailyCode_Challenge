@@ -17,3 +17,7 @@ class Solution {
         }
     }
 }
+
+Errors I got :-
+    I Forget to initialize variable(reversed) so i got an compile time error. if we tried append a value to a variable which is not initialized 
+    it will show up with error , unless the variable is defined as static
